@@ -1,4 +1,4 @@
-# YJRollingView
+# SFRollingView
 类似头条滚动显示，可任意编辑滚动方向前后左右
 
 1、使用方式：
